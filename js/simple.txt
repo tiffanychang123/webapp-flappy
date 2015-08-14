@@ -1,0 +1,7 @@
+
+Welocome!
+The highest score is:
+<ul>
+    <li>Actual score: </li>
+     <li> You are great! </li>
+</ul>
